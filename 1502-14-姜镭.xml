@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="gb2312"?>
+<class>
+<student>
+<name>李二狗</name>
+<num>00001</num>
+<sex>man</sex>
+<age>18</age>
+<grade>100</grade>
+<![CDATA[
+this student got A+
+]]>
+</student>
+<student>
+<name>孙二狗</name>
+<num>00001</num>
+<sex>man</sex>
+<age>18</age>
+<grade>100</grade>
+<![CDATA[
+this student got A+
+]]>
+</student>
+<student>
+<name>郭二狗</name>
+<num>00001</num>
+<sex>man</sex>
+<age>18</age>
+<grade>100</grade>
+<![CDATA[
+this student got A+
+]]>
+</student>
+<student>
+<name>皮二狗</name>
+<num>00001</num>
+<sex>man</sex>
+<age>18</age>
+<grade>100</grade>
+<![CDATA[
+this student got A+
+]]>
+</student>
+<student>
+<name>章二狗</name>
+<num>00001</num>
+<sex>man</sex>
+<age>18</age>
+<grade>100</grade>
+<![CDATA[
+this student got A+
+]]>
+</student>
+<student>
+<name>韩二狗</name>
+<num>00001</num>
+<sex>man</sex>
+<age>18</age>
+<grade>100</grade>
+<![CDATA[
+this student got A+
+]]>
+</student>
+<student>
+<name>周二狗</name>
+<num>00001</num>
+<sex>man</sex>
+<age>18</age>
+<grade>100</grade>
+<![CDATA[
+this student got A+
+]]>
+</student>
+<student>
+<name>杨二狗</name>
+<num>00001</num>
+<sex>man</sex>
+<age>18</age>
+<grade>100</grade>
+<![CDATA[
+this student got A+
+]]>
+</student>
+</class>
