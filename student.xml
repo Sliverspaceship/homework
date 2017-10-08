@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="GB2312"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:\Users\Administrator\Desktop/student.xml">
+	<student stunum="1">
+		<name>张三</name>
+		<sex>male</sex>
+		<age>20</age>
+	</student>
+	<student stunum="2">
+		<name>李四</name>
+		<sex>female</sex>
+		<age>19</age>
+	</student>
+	<student stunum="3">
+		<name>王五</name>
+		<sex>male</sex>
+		<age>21</age>
+	</student>
+	<student stunum="4">
+		<name>丁六</name>
+		<sex>male</sex>
+		<age>22</age>
+	</student>
+</students>
